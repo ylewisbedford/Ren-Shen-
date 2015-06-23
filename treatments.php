@@ -65,5 +65,5 @@ action and function.
       <li>Tui Na</li>
       <li>Cupping</li>
       <li>Moxibustion</li>
-  </body>
-</html>
+    </ul>
+<?php include 'includes/footer.php'; ?>
